@@ -1,1 +1,8 @@
-/* styles go here */
+
+body :not(:last-child).form-field {
+  margin-bottom: 10px;
+}
+
+.fieldset {
+  margin-bottom: 20px;
+}
